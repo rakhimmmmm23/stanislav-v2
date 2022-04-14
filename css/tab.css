@@ -180,7 +180,6 @@ footer {
 .footer-flex {
   display: flex;
   justify-content: space-between;
-  align-items: center;
 }
 
 .subscribe-inp {
