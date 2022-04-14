@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  header {
+    margin-top: 15px;
+  }
+  
+  .header-container {
+    width: 1300px;
+    max-width: 95%;
+    margin: auto;
+  }
+  
+  nav {
+    display: flex;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+  }
+  
+  .nav-links {
+    margin-left: 15px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #000000;
+    width: 135px;
+  }
+  
+  .nav-imgs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .nav-imgs img {
+    margin-left: 25px;
+  }
+  
+
+  .guide{
+      margin-top: 30px;
+  }
+
+  .guide-title{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    color: #000000;
+  }
+
+
+
+  .guide-flex{
+      display: flex;
+      justify-content: space-between;
+  }
+
+  .guide-bar{
+      margin-top: 30px;
+  }
+
+  .verxnya{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #000000;
+    padding: 10px 20px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 20px;
+  }
+
+  .clothe-link{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    margin-top: 7px;
+    color: #000000;
+    
+  }
+  footer {
+    margin-top: 120px;
+    margin-bottom: 50px;
+  }
+  
+  .footer-container {
+    margin: auto;
+    max-width: 1300px;
+    width: 95%;
+  }
+  
+  .footer-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+
+  .subscribe-inp {
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 10px 20px;
+  }
+
+  .nav-imgs img{
+    width: 25px;
+    height: 25px;
+  }
+  
+  
+  .subscribe-btn {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+  
+    color: #000000;
+    background: #ffffff;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 30px;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-left: 20px;
+    
+  }
+  
